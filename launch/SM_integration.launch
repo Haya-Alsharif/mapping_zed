@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="mapping_zed" type="mapping_SMintegration.py" name="start_mapping"  output="screen"/>
+</launch>
